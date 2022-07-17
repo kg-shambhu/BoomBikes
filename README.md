@@ -6,3 +6,8 @@ I also explain how to validate the variouls underlying assumption of Liner Regre
 - Error terms are normally distributed (not X, Y)
 - Error terms are independent of each other
 - Error terms have constant variance (homoscedasticity)
+
+## Attachement: 
+- data file
+- data dictionary
+- Python Notebook
